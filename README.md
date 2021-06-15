@@ -1,4 +1,6 @@
-# DiscordVideoBot
+[![.NET](https://github.com/MattTheDev/DiscordVideoBot/actions/workflows/dotnet.yml/badge.svg)](https://github.com/MattTheDev/DiscordVideoBot/actions/workflows/dotnet.yml)
+
+# Matt's Hacky Not So Great Discord Video Bot
 Want to stream video via a Discord bot? This *kind of* makes that happen. Super hacky - but met my needs. Wanted to share.
 
 1. Register a [Discord Application](https://discord.com/developers/applications#top) and generate a bot token.
