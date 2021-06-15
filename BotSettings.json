@@ -1,0 +1,7 @@
+{
+  "VlcInstallPath": "C:\\Program Files\\VideoLAN\\VLC\\vlc.exe",
+  "Prefix": "!",
+  "KeySettings": {
+    "DiscordToken": "YOUR_BOT_TOKEN"
+  }
+}
