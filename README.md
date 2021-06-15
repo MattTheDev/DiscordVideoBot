@@ -1,4 +1,4 @@
-[![.NET](https://github.com/MattTheDev/DiscordVideoBot/actions/workflows/dotnet.yml/badge.svg)](https://github.com/MattTheDev/DiscordVideoBot/actions/workflows/dotnet.yml)
+[![.NET](https://github.com/MattTheDev/DiscordVideoBot/actions/workflows/dotnet.yml/badge.svg?branch=main)](https://github.com/MattTheDev/DiscordVideoBot/actions/workflows/dotnet.yml)
 
 # Matt's Hacky Not So Great Discord Video Bot
 Want to stream video via a Discord bot? This *kind of* makes that happen. Super hacky - but met my needs. Wanted to share.
