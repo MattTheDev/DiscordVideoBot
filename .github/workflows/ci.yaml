@@ -34,7 +34,7 @@ jobs:
         shell: bash
         run: |
           tag=$(git describe --tags --abbrev=0)
-          release_name="DiscordVideoBot-$tag-${{ matrix.target }}"
+          release_name="DVB-$tag-${{ matrix.target }}"
 
           # Build everything
           dotnet publish DiscordVideoBot.csproj --framework net5.0 --runtime "${{ matrix.target }}" -c Release -o "$release_name"
@@ -53,6 +53,6 @@ jobs:
       - name: Publish
         uses: softprops/action-gh-release@v1
         with:
-          files: "DiscordVideoBot*"
+          files: "DVB*"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
